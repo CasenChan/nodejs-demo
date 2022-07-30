@@ -1,4 +1,4 @@
-FROM registry.cn-beijing.aliyuncs.com/java-demo-test/node:4.2.3
+FROM registry.cn-beijing.aliyuncs.com/citools/node:4.2.3
 
 WORKDIR /app
 
